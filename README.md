@@ -1,0 +1,2 @@
+# jsQzifiy
+Basic JavaScript Project
